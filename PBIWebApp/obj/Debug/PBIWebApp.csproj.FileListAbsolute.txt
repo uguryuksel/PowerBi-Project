@@ -1,0 +1,40 @@
+C:\Users\Administrator\Desktop\PowerBI-Developer-Samples-master\PowerBI.com Integrate\integrate-dashboard-web-app\PBIWebApp\bin\Cloud.config
+C:\Users\Administrator\Desktop\PowerBI-Developer-Samples-master\PowerBI.com Integrate\integrate-dashboard-web-app\PBIWebApp\bin\PBIWebApp.dll.config
+C:\Users\Administrator\Desktop\PowerBI-Developer-Samples-master\PowerBI.com Integrate\integrate-dashboard-web-app\PBIWebApp\bin\PBIWebApp.dll
+C:\Users\Administrator\Desktop\PowerBI-Developer-Samples-master\PowerBI.com Integrate\integrate-dashboard-web-app\PBIWebApp\bin\PBIWebApp.pdb
+C:\Users\Administrator\Desktop\PowerBI-Developer-Samples-master\PowerBI.com Integrate\integrate-dashboard-web-app\PBIWebApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Administrator\Desktop\PowerBI-Developer-Samples-master\PowerBI.com Integrate\integrate-dashboard-web-app\PBIWebApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Administrator\Desktop\PowerBI-Developer-Samples-master\PowerBI.com Integrate\integrate-dashboard-web-app\PBIWebApp\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Administrator\Desktop\PowerBI-Developer-Samples-master\PowerBI.com Integrate\integrate-dashboard-web-app\PBIWebApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Administrator\Desktop\PowerBI-Developer-Samples-master\PowerBI.com Integrate\integrate-dashboard-web-app\PBIWebApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Administrator\Desktop\PowerBI-Developer-Samples-master\PowerBI.com Integrate\integrate-dashboard-web-app\PBIWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\PowerBI-Developer-Samples-master\PowerBI.com Integrate\integrate-dashboard-web-app\PBIWebApp\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\PowerBI-Developer-Samples-master\PowerBI.com Integrate\integrate-dashboard-web-app\PBIWebApp\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\PowerBI-Developer-Samples-master\PowerBI.com Integrate\integrate-dashboard-web-app\PBIWebApp\bin\WebGrease.dll
+C:\Users\Administrator\Desktop\PowerBI-Developer-Samples-master\PowerBI.com Integrate\integrate-dashboard-web-app\PBIWebApp\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Desktop\PowerBI-Developer-Samples-master\PowerBI.com Integrate\integrate-dashboard-web-app\PBIWebApp\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\PowerBI-Developer-Samples-master\PowerBI.com Integrate\integrate-dashboard-web-app\PBIWebApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Administrator\Desktop\PowerBI-Developer-Samples-master\PowerBI.com Integrate\integrate-dashboard-web-app\PBIWebApp\obj\Debug\PBIWebApp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\PowerBI-Developer-Samples-master\PowerBI.com Integrate\integrate-dashboard-web-app\PBIWebApp\obj\Debug\PBIWebApp.dll
+C:\Users\Administrator\Desktop\PowerBI-Developer-Samples-master\PowerBI.com Integrate\integrate-dashboard-web-app\PBIWebApp\obj\Debug\PBIWebApp.pdb
+C:\Users\ugury\Desktop\integrate-dashboard-web-app\PBIWebApp\bin\Cloud.config
+C:\Users\ugury\Desktop\integrate-dashboard-web-app\PBIWebApp\bin\PBIWebApp.dll.config
+C:\Users\ugury\Desktop\integrate-dashboard-web-app\PBIWebApp\bin\PBIWebApp.dll
+C:\Users\ugury\Desktop\integrate-dashboard-web-app\PBIWebApp\bin\PBIWebApp.pdb
+C:\Users\ugury\Desktop\integrate-dashboard-web-app\PBIWebApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ugury\Desktop\integrate-dashboard-web-app\PBIWebApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ugury\Desktop\integrate-dashboard-web-app\PBIWebApp\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\ugury\Desktop\integrate-dashboard-web-app\PBIWebApp\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Users\ugury\Desktop\integrate-dashboard-web-app\PBIWebApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ugury\Desktop\integrate-dashboard-web-app\PBIWebApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ugury\Desktop\integrate-dashboard-web-app\PBIWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ugury\Desktop\integrate-dashboard-web-app\PBIWebApp\bin\Newtonsoft.Json.dll
+C:\Users\ugury\Desktop\integrate-dashboard-web-app\PBIWebApp\bin\System.Web.Optimization.dll
+C:\Users\ugury\Desktop\integrate-dashboard-web-app\PBIWebApp\bin\WebGrease.dll
+C:\Users\ugury\Desktop\integrate-dashboard-web-app\PBIWebApp\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\ugury\Desktop\integrate-dashboard-web-app\PBIWebApp\bin\System.Web.Optimization.xml
+C:\Users\ugury\Desktop\integrate-dashboard-web-app\PBIWebApp\bin\Newtonsoft.Json.xml
+C:\Users\ugury\Desktop\integrate-dashboard-web-app\PBIWebApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ugury\Desktop\integrate-dashboard-web-app\PBIWebApp\obj\Debug\PBIWebApp.csprojResolveAssemblyReference.cache
+C:\Users\ugury\Desktop\integrate-dashboard-web-app\PBIWebApp\obj\Debug\PBIWebApp.dll
+C:\Users\ugury\Desktop\integrate-dashboard-web-app\PBIWebApp\obj\Debug\PBIWebApp.pdb
